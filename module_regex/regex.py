@@ -14,6 +14,5 @@ class Regex(object):
     def show_compile(self):
         pass
 
-
     def show_match(self):
         pass
